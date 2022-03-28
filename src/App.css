@@ -1,0 +1,21 @@
+.container {
+    padding: 0 5rem;
+}
+
+h1 {
+    text-align: center;
+    margin: 4rem 0 5rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffffcc;
+}
+
+a:active {
+    color: #ffffff99;
+}
